@@ -1,0 +1,36 @@
+body{
+    background: url('assets/body-background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.navbar-brand{
+    font-family: 'Abril Fatface', cursive;
+    color:#0A1931;
+}
+
+h1{
+    color:#0A1931;
+    font-family: 'Abril Fatface', cursive;
+}
+
+h5{
+    
+    color: #c4c4c4;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    width: 513px;
+}
+.button-tomato{
+    font-size: 16px;
+    color: white;
+    padding: 10px 40px;
+    background-color:orange ;
+    border-radius: 25px;
+    border:none;
+}
+.button-tomato:hover{
+    background-color: rgb(255, 136, 0);
+}
